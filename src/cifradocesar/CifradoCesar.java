@@ -13,7 +13,7 @@ public class CifradoCesar {
         String letras = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ";
 
         // Solicitar al usuario que ingrese una frase
-        System.out.println("Dame una frase");
+        System.out.println("Dame una palabra");
         String frase = ic.next();
 
         // Solicitar al usuario que ingrese el incremento para el cifrado César
